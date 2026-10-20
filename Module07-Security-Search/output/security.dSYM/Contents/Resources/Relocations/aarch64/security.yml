@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/abdulwahabhassan/Cpp-Application-Design/Module07-Security-Search/output/security'
+relocations:     []
+...
