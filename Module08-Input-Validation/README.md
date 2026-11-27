@@ -8,9 +8,9 @@ The CSV Format is
 
 |id|score|grade|
 
-|STU000010| 98.0| A|
+|STU_000010| 98.0| A|
 
-|STU000011| 72.0| C
+|STU_000011| 72.0| C
 
 '''''''''
 
