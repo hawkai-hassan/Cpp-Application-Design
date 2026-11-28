@@ -26,6 +26,7 @@ Grade	      |performance_grade column in students.csv	|grade A, passed and faile
 ---------------------
 
 --- AI Search (mock) ---
+
 Try: "students who failed", "grade A", "score above 80", "top student"
 Search: top student
 Student ID: STU_000008
