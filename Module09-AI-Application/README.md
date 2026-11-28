@@ -30,8 +30,11 @@ Grade	      |performance_grade column in students.csv	|grade A, passed and faile
 Try: "students who failed", "grade A", "score above 80", "top student"
 
 Search: top student
+
 Student ID: STU_000008
+
 Student Score: 97.61
+
 Student Grade: A
 
 1 student(s) found.
