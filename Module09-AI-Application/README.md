@@ -1,7 +1,12 @@
-
 AI Feature: Natural-Language Search
 -----------------------------------
 
+<<<<<<< HEAD
+AI Feature: Natural-Language Search
+-----------------------------------
+
+=======
+>>>>>>> 2946613e55d921a610da5e22f239fea9d4166968
 1. What the feature does
 ------------------------
 
@@ -104,4 +109,8 @@ Only mockAiInterpret() would be different. The rest of the app is unchanged.
 * It only understands the phrases listed above. It doesn't cope with typos, doesn't do synonym substitution and won't answer questions of the type "what is the average score?".
 * It will simply refuse negation of the form 'did not fail' rather than resort to guessing.
 * Conditions in a single query are combined so that a failed grade A will return no matches.
+<<<<<<< HEAD
 * It does one search per program run.
+=======
+* It does one search per program run.
+>>>>>>> 2946613e55d921a610da5e22f239fea9d4166968

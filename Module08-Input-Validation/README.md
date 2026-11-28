@@ -1,5 +1,8 @@
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2946613e55d921a610da5e22f239fea9d4166968
 About Program
 --------------
 This program is a small student-record manager. It loads up to 20 students (ID, score, grade) from ../students.csv and prints them. It then asks you to add one more, repeating each question until the ID isn't empty, the score is 0 to 100, and the grade is A to F. Next it sorts the students by ID, asks for a date in YYYY-MM-DD format until you enter a valid one, and finally searches for a student by ID with binary search.
@@ -27,4 +30,8 @@ Program Structure
 * 'Admin' - Inherits form 'User' and adds 'addRecord()'
 * 'binarySearch()' - finds a student by ID in the sorted array
 * 'getValidID()', 'getValidScore()', 'getValidGrade()' - re-prompts until the input is valid
+<<<<<<< HEAD
 * 'isValidDate' - Checks a 'YYYY-MM-DD' date
+=======
+* 'isValidDate' - Checks a 'YYYY-MM-DD' date
+>>>>>>> 2946613e55d921a610da5e22f239fea9d4166968
